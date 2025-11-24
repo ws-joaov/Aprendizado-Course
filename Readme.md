@@ -1,14 +1,10 @@
--- Primeiros passo em Git
+-- # Primeiros passo em Git
 
 
 
-1° Commit
+1° Commit (corrigindo)
 
-<<<<<<< HEAD
-\# Somente upando no Git
-
-=======
->>>>>>> 38879f16e6d3eaeeba6e3ba4df5a60f08dd6acaa
+# Somente upando no Git
 
 2° Commit
 
