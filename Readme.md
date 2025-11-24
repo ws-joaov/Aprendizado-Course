@@ -4,7 +4,3 @@
 
 Bloco de teste
 
-
-
-@Alteração
-
